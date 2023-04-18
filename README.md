@@ -1,4 +1,4 @@
-# IST_659_Winery_Database
+# Winery_Database
 
 ## Backgorund:
 
