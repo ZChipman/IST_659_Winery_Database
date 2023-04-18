@@ -6,6 +6,6 @@ This started as the final project for my Database Administration class at Syracu
  
 ## Files:
 
-Zachary_Chipman_Project2.pdf: The final report for the IST659 final project.
+Winery_Database_Report.pdf: The final report for the IST659 final project.
 
-IST_659_Project_Code.sql: The SQL file for the final project (though the code is also written as an appendix to the final report). Microsoft SQL server may be required to run this script. 
+Winery_Database_Code.sql: The SQL file for the final project (though the code is also written as an appendix to the final report). Microsoft SQL server may be required to run this script. 
