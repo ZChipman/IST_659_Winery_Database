@@ -1,8 +1,38 @@
 # Winery_Database
 
-## Backgorund and Data Questions:
+## Background:
 
-This started as the final project for my Database Administration class at Syracuse University. The task was to develop a simple database on a topic of our choosing. I chose to create a database for a fictious winery (which I called Sonoma Quality Libations, or SQL for short).
+### Introduction:
+
+Welcome to Sonoma Quality Libations (SQL), a database I created, which started as my final project for a Database Administration class at Syracuse University. The goal of this project was to design a simple yet effective database system for managing winery operations and data. In this repository, you'll find the code, documentation, and sample data for this project, along with instructions on how to set up and use the SQL database. Whether you're a student, a wine enthusiast, or a database professional, I hope you'll find this project informative and useful.
+
+### Stakeholders:
+
+The primary stakeholders (entities that will benefit from the use of the database) are the wineries owners, employees, and investors. Through this database, they can better track sales and see what factors (grape varietal, vintage, etc.) are affecting sales and adjust accordingly.
+
+Other stakeholders include:
+The vineyards (who supply the grapes and may or may not be owned by the winery). 
+The cooperages who supplies the barrels. 
+The customers who can purchase wines directly through the online store. They are also asked to rate the wines on a scale of 1-5. 
+Other clients: These include stores and restaurants as well as the distributors who ship the wines to them. 
+
+### Business Rules:
+
+These are the rules that will dictate how the database is designed.
+
+1. The vineyards harvest the grapes and send them to the winery. 
+2. The winery receives barrels from the cooperage and ages the wine in them. 
+3. The winery bottles and packages the wine. Each varietal and vintage is bottled and packaged separately. 
+4. The winery sends wine to their clients (customers and businesses).
+5. The businesses keep track of sales.
+6. The businesses send sales data back to the winery.
+7. A client (customer of business) places an order.
+8. The winery receives an order form from the client.
+9. The order is invoiced by the winery.
+10. The invoice is recorded by the winery.
+11. The order (with the copy of invoice) is shipped to the client.
+
+### Data Questions: 
  
 ## Files:
 
