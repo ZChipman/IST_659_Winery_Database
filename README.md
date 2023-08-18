@@ -4,7 +4,7 @@
 
 ### Introduction:
 
-Welcome to Sonoma Quality Libations (SQL), a database I created, which started as my final project for a Database Administration class at Syracuse University. The goal of this project was to design a simple yet effective database system for managing winery operations and data. In this repository, you'll find the code, documentation, and sample data for this project, along with instructions on how to set up and use the SQL database. Whether you're a student, a wine enthusiast, or a database professional, I hope you'll find this project informative and useful.
+Welcome to Sonoma Quality Libations (SQL), a database I created, which started as my final project for a Database Administration class at Syracuse University. The goal of this project was to design a simple yet effective database system for managing winery operations and data. In this repository, you'll find the code, documentation, and sample data for this project, along with instructions on how to set up and use the SQL database. 
 
 ### Stakeholders:
 
@@ -49,6 +49,10 @@ These are the rules that will dictate how the database is designed.
 ### Conceptual Model
 
 ![image](https://github.com/ZChipman/Winery_Database/assets/87530934/3c2badc7-7f43-4223-9f11-7f204359f36d)
+
+### Logical Model
+
+![image](https://github.com/ZChipman/Winery_Database/assets/87530934/64987b7f-e7e3-45b8-a925-1ea5bbc68954)
  
 ## Files:
 
