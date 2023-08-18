@@ -33,6 +33,22 @@ These are the rules that will dictate how the database is designed.
 11. The order (with the copy of invoice) is shipped to the client.
 
 ### Data Questions: 
+
+1. Are poor sales due to the varietal, vintage or oak type?
+
+2. What varietal sells the best?
+
+3. Do the rating and sales of a wine correlate?
+
+4. What can be changed to raise a wines ratings/sales?
+
+5. Which wines sell the best on the online store versus at stores/restaurant?
+
+## Conceptual and Logical Models
+
+### Conceptual Model
+
+![image](https://github.com/ZChipman/Winery_Database/assets/87530934/3c2badc7-7f43-4223-9f11-7f204359f36d)
  
 ## Files:
 
