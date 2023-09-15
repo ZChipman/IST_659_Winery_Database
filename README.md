@@ -62,6 +62,14 @@ Winery_Database_Code.sql: The SQL file for the final project (though the code is
 
 ## Development:
 
+The final database consisted of the following tables:
+
+Vineyard - Contains infomation on the different vineyards the winery harvets grapes from.
+
+Varietal - Contains the names of each varietal (Chardonnay, Cabernet, etc.)
+
+Vintage - 
+
 ## Results:
 
 ## References:
