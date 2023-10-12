@@ -4,7 +4,7 @@
 
 ### Introduction:
 
-Welcome to Sonoma Quality Libations (SQL), a database I created, which started as my final project for a Database Administration class at Syracuse University. The goal of this project was to design a simple yet effective database system for managing winery operations and data. In this repository, you'll find the code, documentation, and sample data for this project, along with instructions on how to set up and use the SQL database. 
+Welcome to Sonoma Quality Libations (SQL), a database I created, which started as my final project for a Database Administration class at Syracuse University. The goal of this project was to design a simple yet effective database system for managing winery operations and data. In this repository, you'll find the code, documentation, and sample data for this project, along with instructions on how to set up and use the SQL database. Note: This project was written in Microsoft SQL Server and may not work on other versions of SQL (Teradata, Postgres, etc.). 
 
 ### Stakeholders:
 
@@ -64,11 +64,17 @@ Winery_Database_Code.sql: The SQL file for the final project (though the code is
 
 The final database consisted of the following tables:
 
+OrderForm - Contains order information, including the customer, wine, quantity, date, and status.
+
 Vineyard - Contains infomation on the different vineyards the winery harvets grapes from.
 
 Varietal - Contains the names of each varietal (Chardonnay, Cabernet, etc.)
 
-Vintage - 
+Vintage - The year the grapes were harvested.
+
+Barrel - What type of oak (French or American) the wine is stored in.
+
+Clients - Information on the winery's various clients including their name, address, and telephone number. 
 
 ## Results:
 
