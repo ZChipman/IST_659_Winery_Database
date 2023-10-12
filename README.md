@@ -76,6 +76,12 @@ Barrel - What type of oak (French or American) the wine is stored in.
 
 Clients - Information on the winery's various clients including their name, address, and telephone number. 
 
+OrderStatus - Reference table for the status of orders. 
+
+WineClient - A bridge table between the Wine and Clients tables. 
+
+Wine - 
+
 ## Results:
 
 ## References:
